@@ -273,4 +273,4 @@ yem,i254,Yemen,middle_east_north_africa,coastline,muslim,"Yemen, Rep.",YE,YEM,88
 yug,i255,Yugoslavia,europe_central_asia,coastline,,Yugoslavia,Yugoslavia,,,TRUE,europe,,
 zmb,i256,Zambia,sub_saharan_africa,landlocked,christian,Zambia,ZM,ZMB,894,TRUE,africa,-14.33333,28.5
 zwe,i257,Zimbabwe,sub_saharan_africa,landlocked,christian,Zimbabwe,ZW,ZWE,716,TRUE,africa,-19,29.75
-ala,i258,Åland,europe_central_asia,coastline,,Åland,AX,ALA,248,TRUE,europe,60.25,20
+zzz,i300,Zzz,america,coastline,muslim,Zzz,ZZ,ZZZ,444,TRUE,americas,13,13
