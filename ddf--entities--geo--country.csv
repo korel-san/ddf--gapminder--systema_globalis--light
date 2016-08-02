@@ -1,4 +1,4 @@
-country,gwid,name,geographic_regions,landlocked,main_religion_2008,gapminder_list,god_id,code,number,is--country,world_4region,latitude,longitude
+country,gwid,name,geographic_regions,landlocked,main_religion_updated,gapminder_list,god_id,code,number,is--country,world_4region,latitude,longitude
 abkh,i0,Abkhazia,europe_central_asia,,,Abkhazia,GE-AB,,,TRUE,europe,,
 afg,i1,Afghanistan,south_asia,landlocked,muslim,Afghanistan,AF,AFG,4,TRUE,asia,33,66
 akr_a_dhe,i2,Akrotiri and Dhekelia,europe_central_asia,coastline,,Akrotiri and Dhekelia,Akrotiri_Dhekelia,,,TRUE,europe,,
